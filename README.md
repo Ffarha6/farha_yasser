@@ -1,6 +1,7 @@
 # farha_yasser
 
 
+
 <!-- Header -->
 <h1 align="center" style="font-weight:bold; font-size: 2.5rem;">
   👩‍💻 Farha Yasser
@@ -42,4 +43,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farha-yasser-003132324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
