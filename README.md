@@ -1,34 +1,39 @@
 # farha_yasser
 
 
-<h1 align="center">Hi there 👋, I'm Farha Yasser</h1>
+<!-- Header -->
+<h1 align="center" style="font-weight:bold; font-size: 2.5rem;">
+  👩‍💻 Farha Yasser
+</h1>
 
 <p align="center">
-🎓 AI student | 💻 Future AI Engineer  
-<br>
-🎯 Working to become a creative AI Engineer
+  🎓 AI Student &nbsp;|&nbsp; 💻 Future AI Engineer  
+</p>
+
+<p align="center">
+  🎯 Working to become a creative AI Engineer
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 📌 About Me
 
-- 🧠 I'm an Artificial Intelligence student.
-- 💡 Passionate about AI, machine learning, and data analysis.
-- 📚 Constantly learning through self-study and projects.
-- 🚀 I believe in continuous growth and creative problem solving.
+✨ I'm an Artificial Intelligence student passionate about technology and learning.<br>
+🚀 I aim to become a skilled and creative AI Engineer.<br>
+📚 Always expanding my knowledge through self-learning and hands-on projects.<br>
+💡 I enjoy problem solving and exploring new AI concepts.
 
 ---
 
-## 🚀 Skills
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-039BE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Concepts-8E24AA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
@@ -37,6 +42,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farha-yasser-003132324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&
