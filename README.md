@@ -4,29 +4,29 @@
 <h1 align="center">✨ Farha Yasser ✨</h1>
 
 <p align="center">
-  🎓 AI Student & Aspiring ML Engineer<br>
-  🤖 Passionate about Artificial Intelligence and Problem Solving
+  🎓 AI student aspiring to become an AI Engineer<br>
+  🤖 Passionate about artificial intelligence and problem-solving
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farha-yasser-003132324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=farha_yasser&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=farha_yasser&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🧠 AI undergraduate building strong foundations in ML and Data Science
-- 🌱 Currently exploring Python, scikit-learn, pandas, and GUI development
-- 💡 I enjoy learning by doing and sharing knowledge with others
-- 🔭 Looking forward to contributing to real-world projects and open-source
+- 🧠 AI student aspiring to become an AI Engineer.  
+- 💡 Interested in artificial intelligence, machine learning, and data analysis.  
+- 📚 Continuously working on improving my skills through self-learning and projects.  
+- 🌱 I believe that learning is a lifelong journey and I'm always striving to grow.
 
 ---
 
-## 🛠️ Skills in Progress
+## 🛠️ Skills I'm Developing
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
