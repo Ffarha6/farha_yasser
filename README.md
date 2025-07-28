@@ -1,55 +1,42 @@
 # farha_yasser
 
 
-<h1 align="center">✨ Farha Yasser ✨</h1>
+<h1 align="center">Hi there 👋, I'm Farha Yasser</h1>
 
 <p align="center">
-  🎓 AI student aspiring to become an AI Engineer<br>
-  🤖 Passionate about artificial intelligence and problem-solving
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/farha-yasser-003132324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=farha_yasser&style=for-the-badge" alt="profile views"/>
+🎓 AI student | 💻 Future AI Engineer  
+<br>
+🎯 Working to become a creative AI Engineer
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🧠 AI student aspiring to become an AI Engineer.  
-- 💡 Interested in artificial intelligence, machine learning, and data analysis.  
-- 📚 Continuously working on improving my skills through self-learning and projects.  
-- 🌱 I believe that learning is a lifelong journey and I'm always striving to grow.
+- 🧠 I'm an Artificial Intelligence student.
+- 💡 Passionate about AI, machine learning, and data analysis.
+- 📚 Constantly learning through self-study and projects.
+- 🚀 I believe in continuous growth and creative problem solving.
 
 ---
 
-## 🛠️ Skills I'm Developing
+## 🚀 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farha_yasser&show_icons=true&theme=gruvbox" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farha_yasser&theme=gruvbox" />
-</p>
-
----
-
-<p align="center">
-  🧩 "Still learning, still growing... one project at a time."
+  <a href="https://www.linkedin.com/in/farha-yasser-003132324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
